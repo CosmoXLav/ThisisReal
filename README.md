@@ -10,6 +10,5 @@ Module 2/ No starter code
 * WHEN resizing the page or view the site on various screens and devices responsive layout that adapts to my viewport
 
 ## Screenshots of Portfolio
-*<src="https://github.com/CosmoXLav/ThisisReal/assets/131213888/1c717285-af2e-4a1f-b146-a58395a2ef58">
-*<src="https://github.com/CosmoXLav/ThisisReal/assets/131213888/e1f61804-5961-42d9-bb20-d760ff5b0bbd">
-*src="https://github.com/CosmoXLav/ThisisReal/assets/131213888/ebe0593f-303b-4d33-af5c-359c464a91f3">
+* https://github.com/CosmoXLav/ThisisReal/assets/131213888/b1ec12ec-1122-45b3-9249-caa4d32ee364
+* https://github.com/CosmoXLav/ThisisReal/assets/131213888/35fa92d4-a33d-48f3-8881-784ef98d6649
